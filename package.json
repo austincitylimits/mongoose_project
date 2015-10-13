@@ -1,0 +1,17 @@
+{
+  "name": "mongoose_project",
+  "version": "0.0.1",
+  "description": "Using Mongoose to create a MongoDB database",
+  "repository": "https://github.com/austincitylimits/mongoose_project",
+  "author": "Austin Cartwright",
+  "dependencies": {
+    "express": "~4.13.3",
+    "morgan": "~1.6.1",
+    "compression": "~1.6.0",
+    "body-parser": "~1.14.1",
+    "method-override": "~2.3.5",
+    "express-session": "~1.11.3",
+    "ejs": "~2.3.4",
+    "mongoose": "~4.1.9"
+  }
+}
